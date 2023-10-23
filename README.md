@@ -80,7 +80,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mostafa-Wael-Elsahity/Mostafa-Wael-Elsahity/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mostafa-Wael-Elsahity/Mostafa-Wael-Elsahity/output/main.svg" alt="main animation" />
 
 ###
 
