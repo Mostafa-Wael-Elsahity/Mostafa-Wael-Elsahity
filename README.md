@@ -1,6 +1,10 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋, I'm Mostafa Wael<br>A software engineer with a passion for software engineering and competitive programming</h2>
+<h1 align="left">Hi 👋, I'm Mostafa Wael</h1>
+
+###
+
+<h2 align="left">A software engineer with a passion for software engineering and competitive programming</h2>
 
 ###
 
